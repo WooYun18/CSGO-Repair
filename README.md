@@ -1,5 +1,5 @@
 # CSGO-Repair
-一个csgo修复工具，包含了LSP/DNS/Steam服务/游戏启动项等其他设置。  
+一个csgo的一键傻瓜式修复工具，包含了LSP/DNS/Steam服务/游戏启动项等其他设置。  
 在 Windows10 下已经过测试。
 ## 可修复以下问题  
   VAC验证失败/VAC启动失败；  
